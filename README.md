@@ -19,7 +19,6 @@ To host it, serve the file from any static host (GitHub Pages works: Settings, P
 ## Notes
 
 - Clear site data and you lose the log, so export the CSV now and then.
-- In the original Claude artifact version, the page can also sync to an account and save files through the host. Outside Claude it falls back to `localStorage`, and Export CSV shows the text with a Copy button if the browser blocks the download.
 
 ## License
 
