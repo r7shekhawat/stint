@@ -20,7 +20,9 @@ To host it, serve the file from any static host (GitHub Pages works: Settings, P
 
 - Clear site data and you lose the log, so export the CSV now and then.
 - If the browser blocks the CSV download, Export CSV shows the text with a Copy button instead.
+- Last maintenance bump: October 28, 2026.
 
 ## License
 
 MIT, see [LICENSE](LICENSE).
+
